@@ -15,7 +15,11 @@
 ![Location](https://img.shields.io/badge/Location-India-24292f?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20internships-2ea44f?style=flat-square)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=640&lines=Turning+ideas+into+products;Full-stack+with+React+and+Node.js;Learning+ML+one+algorithm+at+a+time" alt="Currently building" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=640&lines=Turning+ideas+into+products;Full-stack+with+React+and+Node.js;Learning+ML+one+algorithm+at+a+time" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=57606A&center=true&vCenter=true&width=640&lines=Turning+ideas+into+products;Full-stack+with+React+and+Node.js;Learning+ML+one+algorithm+at+a+time" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=57606A&center=true&vCenter=true&width=640&lines=Turning+ideas+into+products;Full-stack+with+React+and+Node.js;Learning+ML+one+algorithm+at+a+time" alt="Currently building" />
+  </picture>
 
 </div>
 
@@ -127,16 +131,28 @@ clone, AI Resume Builder, cricket statistics dashboard and Disney Profiles.</sub
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reddyharsha11&show_icons=true&theme=transparent&hide_border=true&title_color=24292f&icon_color=24292f&ring_color=24292f" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddyharsha11&layout=donut&theme=transparent&hide_border=true&title_color=24292f&ring_color=24292f" alt="Top languages" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=reddyharsha11&show_icons=true&theme=transparent&hide_border=true&title_color=e6edf3&icon_color=8b949e&text_color=e6edf3&ring_color=8b949e" />
+    <img src="https://github-readme-stats.vercel.app/api?username=reddyharsha11&show_icons=true&theme=transparent&hide_border=true&title_color=1f2328&icon_color=57606a&text_color=1f2328&ring_color=57606a" alt="GitHub stats" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reddyharsha11&layout=donut&theme=transparent&hide_border=true&title_color=e6edf3&ring_color=8b949e&label_color=8b949e" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddyharsha11&layout=donut&theme=transparent&hide_border=true&title_color=1f2328&ring_color=57606a&label_color=57606a" alt="Top languages" height="165" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reddyharsha11&theme=transparent&hide_border=true&ring=24292f&fire=24292f" alt="Contribution streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=reddyharsha11&hide_border=true&background=00000000&ring=58a6ff&fire=f0883e&currStreakNum=ffffff&sideNums=e6edf3&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=reddyharsha11&hide_border=true&background=00000000&ring=0969da&fire=bc4c00&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=0969da&sideLabels=57606a&dates=57606a" alt="Contribution streak" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/6e7781/reddyharsha11" alt="Contribution chart — last 12 months" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg" />
+    <img src="https://ghchart.rshah.org/6e7781/reddyharsha11" alt="Contribution chart — last 12 months" width="100%" />
+  </picture>
 </p>
 
 ---
